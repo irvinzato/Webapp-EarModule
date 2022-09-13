@@ -7,7 +7,7 @@ import org.rivera.webapp.ear.ejb.repositories.UsuarioRepository;
 
 import java.util.List;
 
-@Stateless
+@Stateless  //También puede ser Stateful y contexto RequestScoped
 public class UsuarioServiceImp implements UsuarioService{
 
   @Inject

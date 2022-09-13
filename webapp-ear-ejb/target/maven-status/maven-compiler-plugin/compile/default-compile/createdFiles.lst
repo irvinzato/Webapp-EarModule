@@ -1,0 +1,6 @@
+org\rivera\webapp\ear\ejb\repositories\UsuarioRepositoryImp.class
+org\rivera\webapp\ear\ejb\repositories\UsuarioRepository.class
+org\rivera\webapp\ear\ejb\services\UsuarioServiceImp.class
+org\rivera\webapp\ear\ejb\services\UsuarioService.class
+org\rivera\webapp\ear\ejb\ProducerResources.class
+org\rivera\webapp\ear\ejb\entities\Usuario.class
